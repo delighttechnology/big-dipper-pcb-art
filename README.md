@@ -3,7 +3,7 @@ Star constellation with light-sensitive phototransistor </br> </br>
  <img src="./images/big_dipper_dzien.jpg" width="700" /> </br>
  <img src="./images/tyl.jpg" width="700" />
  
- </br> </br>
+ </br>
 The Big Dipper is a well-known constellation in the northern hemisphere. Inspired by embroidered hoops with stars or zodiac signs that you can find on Etsy and put as a wall decoration, I decided that I would create my own version based purely on PCBs. The super cool thing is that each star is an LED and lights up automatically when it is getting dark thanks to phototransistor in the front.
  </br> </br>
 You can find it on Etsy:
@@ -44,6 +44,9 @@ InkScape with Svg2Shenzhen design back:
 # 4. Export to KiCad
 After a successful export to KiCad, our design looks like the one below. The only thing to do is to finish the path connections and add drill holes. Generate a gerber file of the design prepared this way and you can send it to production.
 
+
+
+ <img src="./images/big_dipper_noc.jpg" width="700" /> </br>
 
 
 ## License
