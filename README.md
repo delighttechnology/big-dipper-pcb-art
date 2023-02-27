@@ -5,10 +5,10 @@ The Big Dipper is a well-known constellation in the northern hemisphere. Inspire
 
 
 ## Steps of designing
-* 1. KiCad project(#Features)
-* 2. Vector project of the design(#PCB)
-* 3. InkScape with Svg2Shenzhen(#Reflow)
-* 4. Export to KiCad(#modeling-and-3d-printing)
+1. KiCad project(#Features)
+2. Vector project of the design(#PCB)
+3. InkScape with Svg2Shenzhen(#Reflow)
+4. Export to KiCad(#modeling-and-3d-printing)
 * [License](#License)
 
 ## Features
