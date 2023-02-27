@@ -9,8 +9,8 @@ https://www.etsy.com/shop/DelightTechnology
 
 
 ## Steps of designing
-1. KiCad project(#KiCad-project)
-2. Vector project of the design(#Vector-project-of-the-design)
+1. KiCad project(#1.-KiCad-project)
+2. Vector project of the design(#2.-Vector-project-of-the-design)
 3. InkScape with Svg2Shenzhen(#Reflow)
 4. Export to KiCad(#modeling-and-3d-printing)
 * [License](#License)
@@ -31,7 +31,7 @@ Front of the design:
 Back of the design:
 
 
-3. InkScape with Svg2Shenzhen
+# 3. InkScape with Svg2Shenzhen
 To create a PCB definition for KiCad from a vector project, you need to install the Svg2Shenzhen plug-in for InkScape, which you can find at THIS link. I then imported the previously created project into InkScape and layered it - I recommend this video to better understand how to use Svg2Shenzhen:
 
 
@@ -39,7 +39,7 @@ InkScape with Svg2Shenzhen design front:
 
 InkScape with Svg2Shenzhen design back:
 
-4. Export to KiCad
+# 4. Export to KiCad
 After a successful export to KiCad, our design looks like the one below. The only thing to do is to finish the path connections and add drill holes. Generate a gerber file of the design prepared this way and you can send it to production.
 
 
