@@ -3,6 +3,9 @@ Star constellation with light-sensitive phototransistor
 
 The Big Dipper is a well-known constellation in the northern hemisphere. Inspired by embroidered hoops with stars or zodiac signs that you can find on Etsy and put as a wall decoration, I decided that I would create my own version based purely on PCBs. The super cool thing is that each star is an LED and lights up automatically when it is getting dark thanks to phototransistor in the front.
 
+You can find it on Etsy:
+https://www.etsy.com/shop/DelightTechnology
+
 
 ## Steps of designing
 1. KiCad project(#Features)
