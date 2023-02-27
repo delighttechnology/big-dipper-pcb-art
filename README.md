@@ -43,8 +43,6 @@ Understanding & Making PCB Art - DEF CON 27 (2019) HHV Talk:</br>
 [![Understanding & Making PCB Art - DEF CON 27 (2019) HHV Talk](http://img.youtube.com/vi/Sbkvza8cKQE/0.jpg)](https://www.youtube.com/watch?v=Sbkvza8cKQE "Understanding & Making PCB Art - DEF CON 27 (2019) HHV Talk")
 
 
-https://www.youtube.com/watch?v=Sbkvza8cKQE
-
 InkScape with Svg2Shenzhen design **front**:</br>
  <img src="./images/inkscape_front.png" width="600" />
 
@@ -57,7 +55,6 @@ After a successful export to KiCad, our design looks like the one below. The onl
  <img src="./images/kicad_final.png" width="700" />
 
 ## 5. More photos
-
 
  <img src="./images/big_dipper_noc.jpg" width="700" /> </br>
  
