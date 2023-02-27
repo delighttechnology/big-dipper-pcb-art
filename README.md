@@ -30,19 +30,23 @@ The first step was to create a schematic in KiCad to have a picture of how all t
 ## 2. Vector project of the design
 Then I had to design the appearance of the constellation taking into account that we have only 5/6 colors (PCB levels and coatings) to use. Of course, the holes in the copper layer had to coincide exactly with those on the other side so that the correct paths and "drill holes" could be routed later.
 
-Front of the design: </br>
+**Front** of the design: </br>
  <img src="./images/vector_front.png" width="600" />
 
-Back of the design: </br>
+**Back** of the design: </br>
  <img src="./images/vector_back.png" width="600" />
 
 ## 3. InkScape with Svg2Shenzhen
 To create a PCB definition for KiCad from a vector project, you need to install the Svg2Shenzhen plug-in for InkScape, which you can find at THIS link. I then imported the previously created project into InkScape and layered it - I recommend this video to better understand how to use Svg2Shenzhen:
 
-InkScape with Svg2Shenzhen design front:</br>
+
+[![IMAGE ALT TEXT HERE](https://www.youtube.com/watch?v=Sbkvza8cKQE)](https://www.youtube.com/watch?v=Sbkvza8cKQE)
+
+
+InkScape with Svg2Shenzhen design **front**:</br>
  <img src="./images/inkscape_front.png" width="600" />
 
-InkScape with Svg2Shenzhen design back:</br>
+InkScape with Svg2Shenzhen design **back**:</br>
  <img src="./images/inkscape_back.png" width="600" />
 
 ## 4. Export to KiCad
