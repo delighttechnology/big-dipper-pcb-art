@@ -15,6 +15,7 @@ https://www.etsy.com/shop/DelightTechnology
 2. [Vector project of the design](#2-Vector-project-of-the-design)
 3. [InkScape with Svg2Shenzhen](#3-InkScape-with-Svg2Shenzhen)
 4. [Export to KiCad](#4-Export-to-KiCad)
+5. [More photos](#5-More-photos)
 * [License](#License)
  </br>
 
@@ -44,7 +45,7 @@ InkScape with Svg2Shenzhen design back:
 # 4. Export to KiCad
 After a successful export to KiCad, our design looks like the one below. The only thing to do is to finish the path connections and add drill holes. Generate a gerber file of the design prepared this way and you can send it to production.
 
-
+# 5. More photos
 
  <img src="./images/big_dipper_noc.jpg" width="700" /> </br>
 
