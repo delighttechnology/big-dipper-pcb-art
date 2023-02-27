@@ -1,12 +1,29 @@
-# big-dipper-pcb-art
-Big Dipper constellation with light-sensitive phototransistor
-
+# Big Dipper PCB Art
+Star constellation with light-sensitive phototransistor
 
 The Big Dipper is a well-known constellation in the northern hemisphere. Inspired by embroidered hoops with stars or zodiac signs that you can find on Etsy and put as a wall decoration, I decided that I would create my own version based purely on PCBs. The super cool thing is that each star is an LED and lights up automatically when it is getting dark thanks to phototransistor in the front.
 
 
+## Steps of designing
+* 1. KiCad project(#Features)
+* 2. Vector project of the design(#PCB)
+* 3. InkScape with Svg2Shenzhen(#Reflow)
+* 4. Export to KiCad(#modeling-and-3d-printing)
+* [License](#License)
+
+## Features
+- ATTiny85 microcontroller
+- TP4056 LiPo Battery Charger with LEDs indicators
+- Simple One-Button user interface
+- WS2812b LEDs
+- Pcb dimensions: 1,5cm x 4cm
+	
+
+
 1. KiCad project
 The first step was to create a schematic in KiCad to have a picture of how all the components should be connected: button battery, resistors, LEDs, switch and phototransistor.
+
+ <img src="./images/onoffcircut.png" width="350" />
 
 
 2. Vector project of the design
