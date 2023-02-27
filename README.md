@@ -46,4 +46,4 @@ After a successful export to KiCad, our design looks like the one below. The onl
 
 ## License
 
-Copyright © 2022, [Andrzej Strzala](https://www.linkedin.com/in/andrzejstrzala/).
+Copyright © 2023, [Andrzej Strzala](https://www.linkedin.com/in/andrzejstrzala/).
