@@ -17,13 +17,13 @@ https://www.etsy.com/shop/DelightTechnology
 
 
 
-1. KiCad project
+# 1. KiCad project
 The first step was to create a schematic in KiCad to have a picture of how all the components should be connected: button battery, resistors, LEDs, switch and phototransistor.
 
  <img src="./images/onoffcircut.png" width="350" />
 
 
-2. Vector project of the design
+# 2. Vector project of the design
 Then I had to design the appearance of the constellation taking into account that we have only 5/6 colors (PCB levels and coatings) to use. Of course, the holes in the copper layer had to coincide exactly with those on the other side so that the correct paths and "drill holes" could be routed later.
 
 Front of the design:
