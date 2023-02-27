@@ -10,6 +10,7 @@ You can find it on Etsy:
 https://www.etsy.com/shop/DelightTechnology
 
  </br>
+ 
 ## Steps of designing
 1. [KiCad project](#1-kicad-project)
 2. [Vector project of the design](#2-Vector-project-of-the-design)
@@ -17,6 +18,7 @@ https://www.etsy.com/shop/DelightTechnology
 4. [Export to KiCad](#4-Export-to-KiCad)
 5. [More photos](#5-More-photos)
 * [License](#License)
+
  </br>
 
 
