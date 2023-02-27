@@ -39,9 +39,10 @@ Then I had to design the appearance of the constellation taking into account tha
 ## 3. InkScape with Svg2Shenzhen
 To create a PCB definition for KiCad from a vector project, you need to install the Svg2Shenzhen plug-in for InkScape, which you can find at THIS link. I then imported the previously created project into InkScape and layered it - I recommend this video to better understand how to use Svg2Shenzhen:
 
+[![Understanding & Making PCB Art - DEF CON 27 (2019) HHV Talk](http://img.youtube.com/vi/Sbkvza8cKQE/0.jpg)](https://www.youtube.com/watch?v=Sbkvza8cKQE "Understanding & Making PCB Art - DEF CON 27 (2019) HHV Talk")
 
-[![IMAGE ALT TEXT HERE](https://www.youtube.com/watch?v=Sbkvza8cKQE)](https://www.youtube.com/watch?v=Sbkvza8cKQE)
 
+https://www.youtube.com/watch?v=Sbkvza8cKQE
 
 InkScape with Svg2Shenzhen design **front**:</br>
  <img src="./images/inkscape_front.png" width="600" />
