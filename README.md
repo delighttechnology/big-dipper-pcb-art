@@ -57,6 +57,8 @@ After a successful export to KiCad, our design looks like the one below. The onl
  
  <img src="./images/na_pudelku_big_dipper_DSC_2069.jpg" width="700" /> </br>
  
+ <img src="./images/w_pidelku_big_DSC_2091.jpg" width="700" /> </br>
+
  <img src="./images/na_scianie_DSC_2110.jpg" width="700" /> </br>
 
  <img src="./images/na_scianie_DSC_2112.jpg" width="700" /> </br>
