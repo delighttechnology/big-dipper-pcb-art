@@ -9,10 +9,10 @@ https://www.etsy.com/shop/DelightTechnology
 
 
 ## Steps of designing
-1. KiCad project(#1.-KiCad-project)
-2. Vector project of the design(#2.-Vector-project-of-the-design)
-3. InkScape with Svg2Shenzhen(#Reflow)
-4. Export to KiCad(#modeling-and-3d-printing)
+1. KiCad project(#1-kicad-project)
+2. Vector project of the design(#2-Vector-project-of-the-design)
+3. InkScape with Svg2Shenzhen(#3-InkScape-with-Svg2Shenzhen)
+4. Export to KiCad(#4-Export-to-KiCad)
 * [License](#License)
 
 
